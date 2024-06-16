@@ -1,3 +1,4 @@
+
 /******* Bootstrap Theming ********/
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
@@ -5,7 +6,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-:root {
+ :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -528,7 +529,11 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height:85vh;
+  height:auto;
+}
+.header-img{
+  max-width: 100%;
+  height: 85vh;
 }
 
 .img-thumbnail {
