@@ -14,16 +14,18 @@ CXperts Kids is a dynamic landing page and entry point for an educational learni
 
 ## Technologies Used
 
-- EJS (Embedded JavaScript)
+- EJS
 - CSS
 - JavaScript
-- SASS
+- SCSS
 - Node.js
+- Bootstrap 
 - Express
+
 
 ## Installation
 
-Since this is a demo, it will be hosted live, and you can access it via a link (to be provided).
+Since this is a demo, it will be hosted live, and you can access it via clicking on:  https://ahmedhenawy11.github.io/cxpertsegKidsDemo/
 
 ## Usage
 
