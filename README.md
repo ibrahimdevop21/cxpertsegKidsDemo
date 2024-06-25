@@ -19,13 +19,12 @@ CXperts Kids is a dynamic landing page and entry point for an educational learni
 - JavaScript
 - SCSS
 - Node.js
-- Bootstrap 
+- Bootstrap
 - Express
-
 
 ## Installation
 
-Since this is a demo, it will be hosted live, and you can access it via clicking on:  https://ahmedhenawy11.github.io/cxpertsegKidsDemo/
+Since this is a demo, it will be hosted live. You can access it by clicking [here](https://ibrahimdevop21.github.io/cxpertsegKidsDemo/).
 
 ## Usage
 
